@@ -8,16 +8,16 @@
     - Start the installer and select "Add Python 3.9 to PATH"...
     <img src="images/python.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
     - If possible, select "Install Launcher for all users"
-    - Click "Install Now" and wait until is done
+    - Click "Install Now" and wait until it is done
     - Follow any recommendations suggested by the installator (ex. "Disable path length limit")
     - (:exclamation:important) Restart the computer
-3) Instal jes4py:
+3) Install jes4py: https://github.com/gordon-cs/JES4py
     - Open VS Code
     - Open a new terminal within VScode
     <img src="images/terminal_windows.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
     - Type "python -m pip install -U jes4py" and click "enter"
     <img src="images/terminal2_windows.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
-    - Wait until it's done
+    - Wait until it is done
 
 
 
