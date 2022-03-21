@@ -3,7 +3,7 @@
 1) Install VS Code: https://code.visualstudio.com/
     - Download the installer 
     - Open the installer and follow its instructions leaving default settings
-2) Install Python 3.9.10 (https://www.python.org/downloads/release/python-3910/)
+2) Install Python 3.9.10: https://www.python.org/downloads/release/python-3910/
     - Download the Windows 64-bit installer: https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe
     - Start the installer and select "Add Python 3.9 to PATH"...
     <img src="images/python.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
