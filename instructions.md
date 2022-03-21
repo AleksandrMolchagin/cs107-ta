@@ -26,7 +26,7 @@ This file provides instructions on how to install Python and JES for the followi
     - Open VS Code
     - Open a new terminal within VS Code
     <img src="images/terminal_windows.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
-    - Type "python -m pip install -U jes4py" and click "enter"
+    - Type "python -m pip install -U jes4py" and press "enter"
     <img src="images/terminal2_windows.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
     - Wait until it is done
 
@@ -58,7 +58,7 @@ Intel based mac will have information similar to what is in the screenshot below
     - Open VS Code
     - Open a new terminal within VS Code
     <img src="images/terminal_mac.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
-    - Type "python3 -m pip install -U jes4py" and click "return"
+    - Type "python3 -m pip install -U jes4py" and press "return"
     <img src="images/terminal2_mac.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
     - Wait until it is done
 
@@ -70,3 +70,12 @@ Intel based mac will have information similar to what is in the screenshot below
 2) Install Python 3.9.10: https://www.python.org/downloads/release/python-3910/
     - Download the installer: https://www.python.org/ftp/python/3.9.10/python-3.9.10-macos11.pkg
     - Run it and follow the installator's instructions
+3) Install jes4py: https://github.com/gordon-cs/JES4py
+    - Open VS Code
+    - Open a new terminal within VS Code
+    - Type " /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/AleksandrMolchagin/cs107-ta/main/macOS_arm.sh)" " and press "return"
+    - If the terminal asks you for your password, enter it and press "return" (note: you won't be able to see your password (or stars) while entering it)
+    - Press "return" to continue
+    <img src="images/script1_mac.png" style="width: 50vw; display: block; margin-left: auto; margin-right: auto;"></img>
+    - Wait until it is done
+
