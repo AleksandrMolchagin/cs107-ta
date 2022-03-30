@@ -4,4 +4,6 @@
 
 3) FOLLOW THE VIDEO
 
-4) pip3 install -U jes4py
+4) brew install python 
+
+5) /opt/homebrew/bin/pip3 install -U jes4py
